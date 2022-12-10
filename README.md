@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Express-6DB33F?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka">
+  <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white">
 </div>
 
 
