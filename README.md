@@ -2,7 +2,7 @@
   <h2>Hi!👋 I'm JeongJu Ryu!</h3>
 </div>
 
-<h3>Skills that I used mainly</h3>
+<h3>Skills that I have used mainly</h3>
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
 </div>
 
-<h3>Skills that I've used</h3>
+<h3>Skills that I used</h3>
 
 <div>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat&logo=html5&logoColor=white"> 
