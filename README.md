@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Express-6DB33F?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka">
   <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white">
 </div>
 
 
